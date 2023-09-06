@@ -1,6 +1,5 @@
-Hi there 👋
-
-✨About me:
+Hi there 👋 
+<h1>✨About me:</h1>
 
 🔭 I’m currently working on: Fullstack Projects and 100 days Python Projects.
 
@@ -15,6 +14,14 @@ Hi there 👋
 
 
 ⚡ Fun fact: I love learning new things and upgrading my skills.
+
+<h2>🌐Socials:</h2>
+
+<a href=http://www.linkedin.com/in/sumanth-jm-ab4764203>LinkedIn</a>
+
+<a href=https://www.hackerrank.com/sumanthjmm_04>HackerRank</a>
+
+
 
 
 
