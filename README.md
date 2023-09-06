@@ -1,6 +1,7 @@
 Hi there 👋
 
 ✨About me:
+
 🔭 I’m currently working on: Fullstack Projects and 100 days Python Projects.
 
 
