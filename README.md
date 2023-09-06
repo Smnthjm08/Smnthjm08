@@ -1,9 +1,17 @@
 Hi there 👋
 ✨About me:
-🔭 I’m currently working on: Fullstack Projects and 100 days Python Projects.
+-🔭 I’m currently working on: Fullstack Projects and 100 days Python Projects.
+
+
 🌱 I’m currently learning: Javascript,ReactJs,MongoDB.
+
+
 👯 I’m looking to collaborate on: Frontend or Fullstack Projects.
+
+
 💬 Ask me about: html,css,python.
+
+
 ⚡ Fun fact: I love learning new things and upgrading my skills.
 
 
