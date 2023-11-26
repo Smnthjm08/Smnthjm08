@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Real Estate Website<br><br>🌱 I’m currently learning Framesworks and Backend.<br><br>👯 I’m looking to collaborate on Front End Projects<br><br>📫 How to reach me sumanthjmm.04@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1y8THDqVKWI6yZa8jkz_G30ZLdpYHAd7q/view?usp=drive_link<br><br>⚡ Fun fact I love Upskilling Myself<br><br>
+🔭 I’m currently working on JavaScript<br><br>🌱 I’m currently learning Framesworks and Backend.<br><br>👯 I’m looking to collaborate on Front End Projects<br><br>📫 How to reach me sumanthjmm.04@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1y8THDqVKWI6yZa8jkz_G30ZLdpYHAd7q/view?usp=drive_link<br><br>⚡ Fun fact I love Upskilling Myself<br><br>
 
 
 ## 🌐 Socials:
