@@ -1,17 +1,11 @@
 # Hi there, I'm Sumanth👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding and exploring new technologies.
-
-## About Me
-
 - 💻 I'm a Junior Software Developer Intern
 - 🎓 I graduated with a degree in Computer Science Engineering.
 - 🌱 I’m currently learning Django, Django Rest Framework
 - 👯 I’m looking to collaborate on Building Projects from Scratch
 - 🤔 I’m looking for help with React Advanced
 - 💬 Ask me about Backend Development
-- 📫 How to reach me: sumanthjmm.04@gmail.com
-- 😄 Pronouns: He/Him
 
 ## 💻 Tech Stack:
 
@@ -19,19 +13,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and ex
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Smnthjm08&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Smnthjm08&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smnthjm08&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Smnthjm08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Smnthjm08&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Smnthjm08&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
