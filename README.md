@@ -3,6 +3,7 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### Frontend
